@@ -5,7 +5,7 @@ weight: 2
 <br/>  
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Открыть таблицу" link="http://testkits.ru/grafana/public-dashboards/9f8398f3ef96410d86ebba997fa901b8" >}}
+{{< hextra/hero-button text="Открыть таблицу" link="https://grafana.testkits.ru/public-dashboards/6f54d598ad3b48a28e0eac163d2aa6c3" >}}
 </div>
 
 {{% steps %}}
