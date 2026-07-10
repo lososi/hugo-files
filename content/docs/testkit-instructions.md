@@ -1,6 +1,6 @@
 ---
 title: Инструкция по применению
-weight: 1
+weight: 3
 next: /docs/interpretation
 prev: /docs
 ---
